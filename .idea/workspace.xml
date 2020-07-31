@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35ca966e-4b1c-40a8-8e6e-9cb6e84f95a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Receiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Sender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/qpid/jms/example/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jndi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jndi.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\Program Files\JetBrains\IntelliJ IDEA 2020.1.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fM21bcvwgjaT57V82JHzllld4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../studyProject/RuoYi-fast" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.Client" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.HelloWorld" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LvqServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.LvqServer" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.PriorityServer" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Receiver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.Receiver" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sender" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.Sender" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.Server" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.SortedServer" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StandardServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.qpid.jms.example.StandardServer" />
+      <module name="qpid-jms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.qpid.jms.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LvqServer" />
+        <item itemvalue="Application.PriorityServer" />
+        <item itemvalue="Application.SortedServer" />
+        <item itemvalue="Application.StandardServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35ca966e-4b1c-40a8-8e6e-9cb6e84f95a8" name="Default Changelist" comment="" />
+      <created>1596013426858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596013426858</updated>
+      <workItem from="1596013429503" duration="4310000" />
+      <workItem from="1596018167869" duration="245000" />
+      <workItem from="1596018472337" duration="475000" />
+      <workItem from="1596070220560" duration="4511000" />
+      <workItem from="1596090244141" duration="43000" />
+      <workItem from="1596090367904" duration="8756000" />
+      <workItem from="1596157671312" duration="7255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596018362513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="470" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596018362513" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596161387767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596161387767" />
+    <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596097157048" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596164948016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596164948016" />
+    <state width="1877" height="286" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596098195629" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596164948016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596164948016" />
+    <state width="1877" height="286" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596098195629" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596164948016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596164948016" />
+    <state width="1877" height="286" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596098195629" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596164948016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596164948016" />
+    <state width="1877" height="286" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1596098195629" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1596163648160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596163648160" />
+    <state x="473" y="255" width="974" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596162071351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="255" width="974" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596162071351" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.naming.NameNotFoundException" package="javax.naming" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

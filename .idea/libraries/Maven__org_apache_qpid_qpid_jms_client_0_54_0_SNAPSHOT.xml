@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.qpid:qpid-jms-client:0.54.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/qpid/qpid-jms-client/0.54.0-SNAPSHOT/qpid-jms-client-0.54.0-20200727.153902-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/qpid/qpid-jms-client/0.54.0-SNAPSHOT/qpid-jms-client-0.54.0-20200727.153902-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/qpid/qpid-jms-client/0.54.0-SNAPSHOT/qpid-jms-client-0.54.0-20200727.153902-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
